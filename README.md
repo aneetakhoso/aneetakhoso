@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aneetakhoso
-- 👀 I’m interested in machine learning, automation,
-- 🌱 I’m currently learning medidata
+- 👀 I’m interested in machine learning, automation, too many other things. AWS and Cloud technologies. Understanding and applying supervised and unsupervised models
+- 🌱 I’m currently learning Medidata systems monitoring.
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me: send a message here!
 
